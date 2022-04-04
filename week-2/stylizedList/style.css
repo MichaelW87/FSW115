@@ -1,0 +1,22 @@
+li {
+    margin: 10px;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+body {
+    width: 50%;
+    margin: auto;
+    background-color: gray;
+}
+ol {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    text-align: center;
+}
+ h1 {
+     text-align: center;
+ }
+
