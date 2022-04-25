@@ -1,5 +1,5 @@
 body {
-    background-color: skyblue;
+    background-color: darkgray;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1 {
@@ -65,8 +65,8 @@ i {
     padding: 5px;
 }
 i:hover, span:hover {
-    color: skyblue;
+    color: blue;
 }
 #todoAdd:hover, #todoDeleteComplete:hover {
-    background-color: skyblue;
+    background-color: blue;
 }
